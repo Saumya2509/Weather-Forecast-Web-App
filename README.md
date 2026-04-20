@@ -8,7 +8,7 @@ A modern and responsive **Weather Forecast Web Application** built using **React
 ---
 
 ## ✨ Features
-- 🔍 Search weather by **city name*
+- 🔍 Search weather by **city name**
 - 🌡️ Real-time **temperature, humidity & conditions**
 - ⛅ Weather icons based on conditions
 - ⚡ Super fast performance with **Vite**
